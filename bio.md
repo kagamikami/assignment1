@@ -1,4 +1,4 @@
-hobbies: drawing  
+hobbies: drawing PCgame  
 age:21
 
 Programming Background
